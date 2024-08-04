@@ -1,0 +1,84 @@
+1. An exam was conducted and the following was analyzed. 4 men were able to check some exam papers in 8 days working 5 hours regularly. What is the total number of hours taken by 2 men in 20 days to check double the number of exam papers?
+
+Answer: 8 hours
+
+Solution 1:
+
+Assuming that 1 unit of work is done in 1 hour Let’s calculate the total number of working hours: 
+=> 4 * 8 * 5 = 160 units Now the work is doubled: => 160 * 2 = 320 units Let ‘x’ be the number of hours taken by 2 men to complete the work in 20 days.
+Therefore, => 2 * 20 * x = 320 => x = 8 hours (Answer).
+
+Solution 2:
+
+Let's verify the calculation step by step: 
+Calculate the total number of working hours for the original work: 
+4 workers work 8 hours per day for 5 days.
+Total units of work = 4 × 8 × 5 = 160 4×8×5=160 units.
+When the work is doubled: New total units of work = 160 × 2 = 320 160×2=320 units.
+Let 𝑥 x be the number of hours taken by 2 men to complete the work in 20 days: Total units of work done by 2 men in 𝑥 x hours per day for 20 days = 2 × 20 × 𝑥 2×20×x.
+Set up the equation: 2 × 20 × 𝑥 = 320 2×20×x=320 Solve for 𝑥 x: 40 𝑥 = 320 40x=320 𝑥 = 320 40 x= 40 320 ​ 𝑥 = 8 x=8 
+So, 𝑥 = 8 x=8 hours is correct. Two men working for 8 hours a day over 20 days will complete the doubled work.
+
+2. The numbers from 101 to 150 are written as, 101102103104105…146147148149150.
+ What will be the remainder when this total number is divided by 3?
+
+Answer: 2
+
+Solution 1:
+
+The divisibility rule for 3 is that the sum of all digits of a number should be divisible by 3.
+Let’s calculate the sum of the digits: There are 50 1’s (unit place) = 50 
+There are 10 1’s (tens place) = 10 There are 10 2’s (tens place) = 20 
+There are 10 3’s (tens place) = 30 There are 10 4’s (tens place) = 40 
+There is one 5 (tens place) = 5 For each number 1 to 9, 
+there are 5 sets of sum 45(1+2+…+9) = 225 =>
+So sum of all digits = 380 => 380 / 3 = 2 (Answer)
+
+Solution 2:
+
+Let's break down the problem and verify the sum of the digits and the divisibility rule for 3.
+Calculating the sum of the digits: There are 50 ones in the unit place: 50 × 1 = 50 50×1=50 
+There are 10 ones in the tens place: 10 × 1 = 10 10×1=10 
+There are 10 twos in the tens place: 10 × 2 = 20 10×2=20
+There are 10 threes in the tens place: 10 × 3 = 30 10×3=30 
+There are 10 fours in the tens place: 10 × 4 = 40 10×4=40
+There is one five in the tens place: 1 × 5 = 5 1×5=5 
+Sum of digits for numbers 1 to 9: Each set from 1 to 9 sums to 45. 
+There are 5 sets of these numbers: 5 × 45 = 225 5×45=225
+Adding all these sums together: Sum of digits in the unit place and tens place: 50 + 10 + 20 + 30 + 40 + 5 = 155 50+10+20+30+40+5=155
+Adding the sets from 1 to 9: 155 + 225 = 380 155+225=380
+Checking divisibility by 3: To determine if 380 is divisible by 3, 
+we sum its digits: 3 + 8 + 0 = 11 3+8+0=11 Since 11 is not divisible by 3, 380 is not divisible by 3. 
+Therefore, the statement 380 3 = 2 3 380 ​ =2 is incorrect. The correct approach confirms that 380 is not divisible by 3.
+
+
+3. If the alphabets are written in the sequence of a, bb, ccc, dddd, eeeee, ffffff, …. What will be the 120th letter?
+
+Answer: O
+
+Solution 1:
+It can be seen that the letter are in AP sequence, So applying the formula we get, n(n+1)/2 <= 120 
+We find that n = 15 fits the equation The 15th letter in the English alphabet = O So 15th term contains O.
+
+4.There is a tank whose 1/7 th part is filled with fuel. If 22 liters of fuel is poured into the tank, 
+the indicator rises to 1/5 th mark of the tank. So what is the total capacity of the tank?
+
+Answer: 385
+
+Solution:
+Let the total capacity of the tank be ‘x’ liters.
+According to the question, => x/7 + 22 = x/5 => x/5 – x/7 = 22 => x = 385 litres(Answer)
+
+5.
+In the given figure, find the ratio of area of the square to area of the triangle:a) 3:2 b) 2:3 c) 2:1 d) 1:2
+
+Answer: c) 2:1
+
+Solution:
+
+Let the side of the square be ‘2’ units Area of the square = (side)^2 = 2^2 = 4 unit 
+Side of triangle, using Pythagoras Theorem = \sqrt{5} unit 
+Height of triangle = side of square (Using Pythagorean theorem) 
+Area of triangle = 1/2 * base * height here, base = height = side 
+Area of triangle = 1/2 * (side)^2 => 1/2 *2 * 2 => 2 units
+Therefore the ratio = 4:2 => 2:1 (Answer)
